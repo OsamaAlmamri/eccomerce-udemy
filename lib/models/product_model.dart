@@ -15,7 +15,7 @@ class ProductModel {
       required this.image,
       required this.rating});
 
-  
+
 
   factory ProductModel.fromJson(jsonData) {
     return ProductModel(

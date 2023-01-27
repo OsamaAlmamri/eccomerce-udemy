@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:eccomerce/models/product_model.dart';
 
 void main() {
   runApp(const MyApp());
